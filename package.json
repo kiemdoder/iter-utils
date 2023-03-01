@@ -1,0 +1,20 @@
+{
+  "name": "iter-utils",
+  "version": "0.1.0",
+  "description": "Utilities for transforming and manipulating  iterables ",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.1.1",
+    "ts-jest": "^29.0.3",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.8.4"
+  },
+  "keywords": [
+    "Typescript",
+    "iterables"
+  ],
+  "author": "kiemdoder",
+  "license": "ISC"
+}
