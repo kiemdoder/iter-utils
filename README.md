@@ -1,3 +1,3 @@
 # Iter-utils
 
-Iter Utils is a set of functions aid the processing of iterables in Typescript.
+Iter Utils is a set of functions aid the processing of iterables in Typescript. Inspired by Clojure seq.
